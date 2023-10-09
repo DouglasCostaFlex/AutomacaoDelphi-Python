@@ -1,0 +1,13 @@
+Validações que tem queter:
+
+1 - ProcessExists - Valida se o processo existe apra fazer X ação.   OK REALIZA, CRIADO TESTE
+2 - WinWaitActive - Espera tela ativa pelo nome da tela. OK REALIZA, CRIADO TESTE
+3 - ControlClick - Clicar pela cordenada da tela, permite controlar qual qual botão do mouse será clicado e quantas vezes será clicado. OK , CRIADO TESTE
+4 - If e else - Implemnta condições de seguir ou não, efetuar ações de acordo com resultados.  OK , CRIADO TESTE
+5 - função para tirar print de tela.
+6 - função para ler arquivo e usar seus dados como variavel.
+7 - Função para rodar bat.
+
+Não necessariamente mas é bom ter:
+
+rumwait - Roda EXE "X" após alguma ação.
